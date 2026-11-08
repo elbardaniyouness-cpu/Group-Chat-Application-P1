@@ -1,0 +1,3 @@
+# Keep the Unix wrapper script runnable on Linux/macOS (CI runs on Ubuntu)
+mvnw text eol=lf
+*.cmd text eol=crlf
